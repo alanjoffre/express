@@ -1,2 +1,2 @@
 # Express
-Repositório com aprendizado e exercícios: Express
+- Repositório com: artigos, aprendizados, exercícios e projetos.
